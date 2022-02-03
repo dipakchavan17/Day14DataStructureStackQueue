@@ -171,6 +171,5 @@ namespace StackAndQueue
             Console.WriteLine("\nLength of LinkedList is :-" + " " + count);
         }
 
-
     }
 }
